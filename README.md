@@ -2,5 +2,5 @@
 Pluginleri kontrol etmek için plugin
 
 # Authors
-Fenish
+- Fenish
 - Speretta
