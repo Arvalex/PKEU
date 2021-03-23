@@ -2,6 +2,6 @@
 Pluginleri kontrol etmek için plugin
 Created for own server
 
-# Authors
+# Yapımcılar
 - Fenish
 - Speretta
