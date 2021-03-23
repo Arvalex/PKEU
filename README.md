@@ -2,5 +2,5 @@
 Pluginleri kontrol etmek için plugin
 
 # Yapımcılar
-- Fenish
+- Fenish https://github.com/fenish
 - Speretta
