@@ -1,6 +1,6 @@
 # PKEU
 Pluginleri kontrol etmek için plugin
 
-#Authors
+# Authors
 Fenish
 Speretta
